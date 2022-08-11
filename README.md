@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- ![Иллюстрация к проекту](https://github.com/teplospbru/test-task-6/blob/main/screenshot-30062022.png) -->
+
+<img src="https://github.com/teplospbru/teplospbru/blob/main/programms.png" height="auto" width="582">

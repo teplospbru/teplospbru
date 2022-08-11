@@ -1,11 +1,19 @@
-### Привет, меня зовут Владимир 👋
+## Привет 👋, меня зовут Владимир
+
+![](https://komarev.com/ghpvc/?username=teplospbru)
+
+
+
+## Я фронтэнд разработчик
+
+
 
 ## ТЕХНОЛОГИИ, КОТОРЫЕ ИСПОЛЬЗУЮ
 
-<img src="https://github.com/teplospbru/teplospbru/blob/main/technologies.png" height="auto" width="581">\
+<img src="https://github.com/teplospbru/teplospbru/blob/main/technologies.png" height="auto" width="581">
 
 
-## ИЗУЧАЮ В ДАННЫЙ МОМЕНТ
+## 🌱 ИЗУЧАЮ В ДАННЫЙ МОМЕНТ
 
 <img src="https://github.com/teplospbru/teplospbru/blob/main/perspective.png" height="auto" width="213">
 
@@ -17,12 +25,10 @@
 
 ## СТАТИСТИКА
 
-![](https://komarev.com/ghpvc/?username=teplospbru)
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=teplospbru&theme=dark&background=000000)](https://git.io/streak-stats) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teplospbru&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
-**teplospbru/teplospbru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

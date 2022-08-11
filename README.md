@@ -1,4 +1,21 @@
-### Hi there 👋
+### Привет, меня зовут Владимир 👋
+
+## ТЕХНОЛОГИИ, КОТОРЫЕ ИСПОЛЬЗУЮ
+
+<img src="https://github.com/teplospbru/teplospbru/blob/main/technologies.png" height="auto" width="581">\
+
+
+## ИЗУЧАЮ В ДАННЫЙ МОМЕНТ
+
+<img src="https://github.com/teplospbru/teplospbru/blob/main/perspective.png" height="auto" width="213">
+
+
+## ЛЮБИМЫЙ СОФТ ДЛЯ РАБОТЫ
+
+<img src="https://github.com/teplospbru/teplospbru/blob/main/programms.png" height="auto" width="436">
+
+
+## СТАТИСТИКА
 
 ![](https://komarev.com/ghpvc/?username=teplospbru)
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=teplospbru&theme=dark&background=000000)](https://git.io/streak-stats) -->
@@ -21,4 +38,3 @@ Here are some ideas to get you started:
 
 <!-- ![Иллюстрация к проекту](https://github.com/teplospbru/test-task-6/blob/main/screenshot-30062022.png) -->
 
-<img src="https://github.com/teplospbru/teplospbru/blob/main/programms.png" height="auto" width="582">

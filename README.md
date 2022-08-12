@@ -6,6 +6,9 @@
 
 ## Я фронтэнд разработчик
 
+Я имею опыт разработки на стеке технологий (MERN): 
+    
+React, Redux, React Hooks, React Testing Library, Node JS, Express, MongoDB, SASS, SVG. Очень люблю JavaScript.  Готов осваивать новые технологии.
 
 
 ## ТЕХНОЛОГИИ, КОТОРЫЕ ИСПОЛЬЗУЮ

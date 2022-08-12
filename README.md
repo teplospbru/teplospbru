@@ -1,4 +1,4 @@
-## Привет 👋, меня зовут Владимир
+# Привет 👋, меня зовут Владимир
 
 ![](https://komarev.com/ghpvc/?username=teplospbru)
 
@@ -6,12 +6,14 @@
 
 ## Я фронтэнд разработчик
 
-Я имею опыт разработки на стеке технологий (MERN): 
+<font size = 5>Имею опыт разработки на стеке технологий (MERN):</font>
     
-React, Redux, React Hooks, React Testing Library, Node JS, Express, MongoDB, SASS, SVG. Очень люблю JavaScript.  Готов осваивать новые технологии.
+<font size = 5>React, Redux, React Hooks, React Testing Library, Node JS, Express, MongoDB, SASS, SVG. Очень люблю JavaScript.  Готов осваивать новые технологии.</font>
+
+<font size = 5>Опыт работы ~ 1,5 года. Позиционирую себя, как junior.</font>
 
 
-## ТЕХНОЛОГИИ, КОТОРЫЕ ИСПОЛЬЗУЮ
+## 🚀 ТЕХНОЛОГИИ, КОТОРЫЕ ИСПОЛЬЗУЮ В РАБОТЕ
 
 <img src="https://github.com/teplospbru/teplospbru/blob/main/technologies.png" height="auto" width="581">
 
@@ -21,7 +23,7 @@ React, Redux, React Hooks, React Testing Library, Node JS, Express, MongoDB, SAS
 <img src="https://github.com/teplospbru/teplospbru/blob/main/perspective.png" height="auto" width="213">
 
 
-## ЛЮБИМЫЙ СОФТ ДЛЯ РАБОТЫ
+## ❤️ ЛЮБИМЫЙ СОФТ ДЛЯ РАБОТЫ
 
 <img src="https://github.com/teplospbru/teplospbru/blob/main/programms.png" height="auto" width="436">
 

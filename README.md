@@ -12,6 +12,8 @@
 
 <font size = 10>Опыт работы ~ 1,5 года. Позиционирую себя, как junior.</font>
 
+<font size = 10>[Моё резюме на hh.ru](https://spb.hh.ru/resume/c8ef9074ff09dfc9540039ed1f7177744b6934)</font>
+
 
 
 ## 🚀 ТЕХНОЛОГИИ, КОТОРЫЕ ИСПОЛЬЗУЮ В РАБОТЕ
@@ -34,11 +36,6 @@
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=teplospbru&theme=dark&background=000000)](https://git.io/streak-stats) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teplospbru&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
-
-## 🚀 Контакты
-
-<font size = 10>[Моё резюме на hh.ru](https://spb.hh.ru/resume/c8ef9074ff09dfc9540039ed1f7177744b6934)</font>
-<font size = 10>[Моя электронная почта: studium2012@yandex.ru](studium2012@yandex.ru)</font>
 <!--
 
 Here are some ideas to get you started:
